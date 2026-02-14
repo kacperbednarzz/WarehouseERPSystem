@@ -1,4 +1,4 @@
-# Warehouse ERP - Projekt Edukacyjny (Backend & Data Logic Focus)
+# Warehouse ERP - (Backend & Data Logic Focus)
 
 ### 🚀 O projekcie
 Projekt ten jest etapem mojej nauki programowania w języku Java. Głównym celem nie było stworzenie "ładnych okienek", ale zrozumienie, jak zaprojektować **logikę biznesową**, zarządzać **obiektami (POJO)** oraz jak skutecznie komunikować aplikację z **relacyjną bazą danych (PostgreSQL)**.
